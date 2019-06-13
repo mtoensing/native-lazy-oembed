@@ -1,7 +1,7 @@
 <?php
 
 /*
-  Plugin Name: Native Lazy oembed
+  Plugin Name: Native Lazy oEmbed
   Plugin URI: http://marc.tv/
   Description: Adds loading=lazy attribute to all oembed iframnes.
   Version: 1.0
