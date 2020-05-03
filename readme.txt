@@ -15,8 +15,3 @@ This plugins add the attribute "loading=lazy" to all oembed iframe. (e.g. YouTub
 * Activate it
 
 
-== Changelog ==
-
-= 1.0 =
-
-* First version with play, pause and ended events.
